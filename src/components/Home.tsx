@@ -265,7 +265,7 @@ const Home = () => {
               <h1>Links</h1>
             </div>
             <div className="home__contact__wrapper__links__buttons">
-              <Link to={"mailto:ayushrameja@gmail.com"}>Mail</Link>
+              <Link to={"mailto:wave@ayush.im"}>Mail</Link>
               <Link to={"https://www.linkedin.com/in/ayushrameja/"}>
                 LinkedIn
               </Link>
